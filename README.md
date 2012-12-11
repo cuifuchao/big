@@ -1,4 +1,5 @@
 big
-===
+s
+:q
 
 bigbluebutton
